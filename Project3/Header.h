@@ -10,4 +10,6 @@ void main1(int x) {
 	cout << endl << "The sum is " << endl << (x + x);
 	cout << endl << "there are changes"
 		;
+	cout << endl << "there are changes"
+		;
 }
